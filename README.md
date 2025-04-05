@@ -1,1 +1,1 @@
-# Machine-Learning-YoungDevInterns
+# YoungDevInterns_Machine-Learning_Tasks
