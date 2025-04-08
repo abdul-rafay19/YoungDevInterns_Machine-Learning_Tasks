@@ -1,6 +1,10 @@
-# YoungDevInterns_Machine-Learning_Tasks
+# 📂 YoungDevInterns_Machine-Learning_Tasks
 
-# 👨‍💻 Abdul Rafay | BS Software Engineering  
+### 👨‍💻 **Abdul Rafay**  
+**Bachelor of Science in Software Engineering**
+
+---
+
 ### 🏢 YoungDev Intern - Machine Learning Internship  
 
 This repository documents my progress as a **Machine Learning Intern** at **YoungDev Intern**. It includes hands-on tasks across three levels: **Basic**, **Intermediate**, and **Expert**, designed to deepen my understanding and practical knowledge of AI and ML.
@@ -86,9 +90,3 @@ This journey is a blend of **consistency**, **curiosity**, and **continuous lear
 
 ### 🔗 Connect with me  
 **LinkedIn:** [linkedin.com/in/abdul-rafay19](https://www.linkedin.com/in/abdul-rafay19)
-
----
-
-### 🔖 Hashtags  
-`#Alhamdulillah` `#YoungDevInterns` `#MachineLearning` `#AI` `#InternshipOpportunity` `#GrowthMindset` `#DeepLearning`
-
